@@ -11,6 +11,7 @@ lame
 ### 编译方法
 ```
 yum instal speex-devel 
+git clone git@github.com:MrBeen1113/spx2wav.git
 cd spx2wav
 make
 cp spx2wav /usr/local/bin
